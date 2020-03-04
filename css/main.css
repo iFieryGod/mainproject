@@ -19,8 +19,9 @@ header,
 section,
 aside,
 footer {
-
+  
 }
+  
 
 header{
   background-color: #2E2F2F;
@@ -28,32 +29,40 @@ header{
 
 .block1 {
   background-color: aquamarine;
+  height: 30em;
 }
 
 .block2 {
   background-color: azure;
+  height: 20em;
 }
 
 .block3 {
   background-color: aquamarine;
+  height: 20em;
 }
 
 .block4 {
   background-color: azure;
+  height: 20em;
 }
 
 .block5 {
   background-color: #2E2F2F;
+  height: 25em;
 }
 
 .block6 {
   background-color: azure;
+  height: 25em;
 }
 
 .block7 {
   background-color: dimgrey;
+  height: 25em;
 }
 
 footer {
   background-color: #2E2F2F;
+  height: 10em;
 }
