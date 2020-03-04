@@ -1,0 +1,59 @@
+body {
+  background-color: beige;
+}
+
+.pearson {
+  float: left;
+  width: 10em;
+  padding-bottom: 5em;
+  margin-top: -1em;
+}
+
+nav {
+  padding: 1em;
+  text-align: right;
+  color: azure;
+}
+
+header,
+section,
+aside,
+footer {
+
+}
+
+header{
+  background-color: #2E2F2F;
+}
+
+.block1 {
+  background-color: aquamarine;
+}
+
+.block2 {
+  background-color: azure;
+}
+
+.block3 {
+  background-color: aquamarine;
+}
+
+.block4 {
+  background-color: azure;
+}
+
+.block5 {
+  background-color: #2E2F2F;
+}
+
+.block6 {
+  background-color: azure;
+}
+
+.block7 {
+  background-color: dimgrey;
+}
+
+footer {
+  background-color: #2E2F2F;
+}
